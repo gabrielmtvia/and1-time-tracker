@@ -1,8 +1,10 @@
-package com.example.and1timetracker;
+package com.example.and1timetracker.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.and1timetracker.R;
 
 public class MainActivity extends AppCompatActivity {
 
